@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Perfil:
 Meu nome é Pedro Henrique Moreira, sou um estudante de programação na area do desenvolvimento web. Atualmente estou focado no back-end python, mas tambem gosto de front-end e tenho conhecimentos basicos da area. Eu desejo evoluir no mercado de trabalho e priorizo o aprendizado e experiencia.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peh_henriqq) 
 
 # 💻 Tech Stack:
