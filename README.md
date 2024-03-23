@@ -1,5 +1,5 @@
 # 💫 Perfil:
-Meu nome é Pedro Henrique Moreira, sou um estudante de programação na area do desenvolvimento web. Atualmente estou focado no back-end python, mas tambem gosto de front-end e tenho conhecimentos basicos da area. Eu desejo evoluir no mercado de trabalho e priorizo o aprendizado e experiencia.
+Meu nome é Pedro Henrique Moreira, sou um estudante de programação na area do desenvolvimento web. Atualmente meu foco é no back-end python, mas tambem gosto e tenho conhecimentos basicos na area front-end. Eu desejo evoluir no mercado de trabalho e priorizo o aprendizado e experiencia.
 
 
 ## 🌐 Redes Sociais:
