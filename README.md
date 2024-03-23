@@ -3,6 +3,11 @@
 Sou estudante de programação no desenvolvimento web da area back-end (python).
 <ul>
     <li>
+        principais tecnologias:
+    </li>
+</ul>
+<ul>
+    <li>
       Python
     </li>
   <ul>
@@ -11,20 +16,6 @@ Sou estudante de programação no desenvolvimento web da area back-end (python).
     </li>
     <li>
       Flask
-    </li>
-  </ul>
-    <li>
-      Front
-    </li>
-  <ul>
-    <li>
-      JavaScript
-    </li>
-    <li>
-      HTML
-    </li>
-    <li>
-      CSS
     </li>
   </ul>
 </ul>
