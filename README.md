@@ -2,10 +2,10 @@
 
 <ul>
     <li>
-        Sou estudante de programação da área de desenvolvimento web.
+        Sou estudante de programação na área de desenvolvimento web.
     </li>
     <li>
-        Atualmente meu foco é back-end python
+        Back-end python
     </li>
 </ul>
 
